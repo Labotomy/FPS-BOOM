@@ -1,21 +1,21 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "0.1.1",
+    "versionId": "0.1.2",
     "name": "FPS BOOM!",
     "files": [
         {
             "path": "mods/dashloader-def-3.1.1+1.18.jar",
             "hashes": {
-                "sha1": "",
-                "sha512": ""
+                "sha1": "3c1878393470e694bf36b7af03d7b538448da38b",
+                "sha512": "a0ae70e05a8e284afcf2bc58452afab47e7f2912fed3c7f538f455e36569cacd9bc9e2691acdc105a756d3403bc754ca45663eaa22e692f28717663440ea0ac0"
             },
             "env": {
                 "client": "required",
                 "server": "unsupported"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/3.1.1+1.18/dashloader-def-3.1.1%2B1.18.jar"
+                "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/4.0.0+1.18/dashloader-4.0.0.jar"
             ],
             "fileSize": 5866625
         },
