@@ -27,7 +27,7 @@ gamma:0.5
 renderDistance:8
 simulationDistance:10
 entityDistanceScaling:1.0
-guiScale:2
+guiScale:0
 particles:0
 maxFps:260
 difficulty:2
@@ -62,14 +62,14 @@ useNativeTransport:true
 mainHand:right
 attackIndicator:1
 narrator:0
-tutorialStep:find_tree
+tutorialStep:open_inventory
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:true
+joinedFirstServer:false
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
