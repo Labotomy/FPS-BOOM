@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "modrinth.index.json"
-hash = "eb8bc8e65d11ef737d29bdccf19cbcc499694ae6a05f22f7a67075b5ff61125e"
+hash = "bcedc084d4cf28bfe8b963d39ad2eb0fbf73c59118a1ed359f07a9c77497d023"
 
 [[files]]
 file = "mods/better-beds.pw.toml"
@@ -174,7 +174,7 @@ hash = "6b43a21826ec719ff86142e13381c577ab4b359661263ff31fc6c4aa1a80d187"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "02cd64941e39d8fcb8c44b426ee39cb09a9b8a51c7eb21360d978bb8372b9dc9"
+hash = "f024fdee0427c482631054bbb77012f89c500aeb547c3cfc2f87f7fc777aee17"
 
 [[files]]
 file = "overrides/servers.dat"
