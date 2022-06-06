@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "modrinth.index.json"
+hash = "eb8bc8e65d11ef737d29bdccf19cbcc499694ae6a05f22f7a67075b5ff61125e"
+
+[[files]]
+file = "overrides/config/dashloader.json"
+hash = "6f63dc6f90d303dd14e8c83e2460f2664da0c9a21fc095e300644d4a0a923d36"
+
+[[files]]
+file = "overrides/config/enhanced_bes.properties"
+hash = "7268538784e158a5f680fd2905bfac32eb95e16f7e3bff1f1af207cc94bca4bf"
+
+[[files]]
+file = "overrides/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "overrides/config/fabric/indigo-renderer.properties"
+hash = "2595a3a639fd4381cca9bc313ea46d4dfdd2c87b150d98e3f9757ba215dc49a8"
+
+[[files]]
+file = "overrides/config/ferritecore.mixin.properties"
+hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+
+[[files]]
+file = "overrides/config/indium-renderer.properties"
+hash = "11a182952083cb9307691cba554ee8db7b5f7ed977729f354a04eaf43440c926"
+
+[[files]]
+file = "overrides/config/iris.properties"
+hash = "b04ca0b07b5b6b907950ac1a0546b253db739f6e399c570a78fd1117ad5a8598"
+
+[[files]]
+file = "overrides/config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "overrides/config/modmanager.json"
+hash = "0eecc4d067114e6fc5754f3b6725bee8fb938a4efd7c34e9a65ffd19292ec0e2"
+
+[[files]]
+file = "overrides/config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "overrides/config/mods-command.conf"
+hash = "1dc950605222f7e499d7312d196859fbb25211df2b3fb33c2daf05365c4d62fd"
+
+[[files]]
+file = "overrides/config/rrp.properties"
+hash = "31cdd57ce93d3b36831c05406494ed616a09fb41370fa296e1fae12e0bebdeb0"
+
+[[files]]
+file = "overrides/config/sodium-extra-options.json"
+hash = "ea59a153be8cf0893a9295e79491ac379796d3839749168f3489dc536d9c4131"
+
+[[files]]
+file = "overrides/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "overrides/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "overrides/config/sodium-options.json"
+hash = "8ce86b17936134793cde8688ba5698e68e3ab25d0d9fcb6064bb4708efa097d6"
+
+[[files]]
+file = "overrides/icon.png"
+hash = "6b43a21826ec719ff86142e13381c577ab4b359661263ff31fc6c4aa1a80d187"
+
+[[files]]
+file = "overrides/options.txt"
+hash = "02cd64941e39d8fcb8c44b426ee39cb09a9b8a51c7eb21360d978bb8372b9dc9"
+
+[[files]]
+file = "overrides/servers.dat"
+hash = "14124b9d937d4cde94f18bad8cff9b2fb9f93bbc2ba2b53675bba20b9f629acc"
