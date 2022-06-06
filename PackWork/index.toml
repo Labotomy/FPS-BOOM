@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "modrinth.index.json"
-hash = "bcedc084d4cf28bfe8b963d39ad2eb0fbf73c59118a1ed359f07a9c77497d023"
+hash = "34edddb5b4695c93494acc974edfc134f753bb14d988805a3315cd106d5f877c"
 
 [[files]]
 file = "mods/better-beds.pw.toml"
