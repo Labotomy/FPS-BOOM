@@ -5,6 +5,36 @@
     "name": "FPS BOOM!",
     "files": [
         {
+            "path": "mods/dashloader-def-3.1.1+1.18.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        },
+        {
+            "path": "mods/enhancedblockentities-0.6+1.18.2.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        },
+        {
             "path": "mods/entityculling-fabric-mc1.18-1.5.1.jar",
             "hashes": {
                 "sha1": "523c57485a469c581d7a9bd18ec86c7a92a0ec93",
@@ -20,6 +50,21 @@
             "fileSize": 44983
         },
         {
+            "path": "mods/forcecloseloadingscreen-1.1.1.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        },
+        {
             "path": "mods/fabric-api-0.55.1+1.18.2.jar",
             "hashes": {
                 "sha1": "bb41e2af744336c3c2c94a723fa7d73e37099aa0",
@@ -33,6 +78,21 @@
                 "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.55.1+1.18.2/fabric-api-0.55.1%2B1.18.2.jar"
             ],
             "fileSize": 1374974
+        },
+        {
+            "path": "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
         },
         {
             "path": "mods/ferritecore-4.2.1-fabric.jar",
@@ -63,6 +123,21 @@
                 "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.4/iris-mc1.18.2-1.2.4-build.38.jar"
             ],
             "fileSize": 1522779
+        },
+        {
+            "path": "mods/betterbeds-1.2.0.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
         },
         {
             "path": "mods/krypton-0.1.9.jar",
@@ -110,6 +185,21 @@
             "fileSize": 466196
         },
         {
+            "path": "mods/phosphor-fabric-mc1.18.x-0.8.1.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        },
+        {
             "path": "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
             "hashes": {
                 "sha1": "f839863a6be7014b8d80058ea1f361521148d049",
@@ -123,6 +213,91 @@
                 "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar"
             ],
             "fileSize": 1318645
+        },
+        {
+            "path": "mods/sodium-extra-0.4.4+mc1.18.2-build.39.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        }        {
+            "path": "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        }        {
+            "path": "mods/indium-1.0.3+mc1.18.2.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        }        {
+            "path": "mods/modmenu-3.2.2.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        }        {
+            "path": "mods/modmanager-1.2.3+1.18.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
+        }        {
+            "path": "mods/mods-command-mc1.18.2-1.0.7.jar",
+            "hashes": {
+                "sha1": "",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/"
+            ],
+            "fileSize":
         }
     ],
     "dependencies": {
