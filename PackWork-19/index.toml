@@ -1,0 +1,181 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/dashloader.json"
+hash = "6f63dc6f90d303dd14e8c83e2460f2664da0c9a21fc095e300644d4a0a923d36"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "7268538784e158a5f680fd2905bfac32eb95e16f7e3bff1f1af207cc94bca4bf"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "2595a3a639fd4381cca9bc313ea46d4dfdd2c87b150d98e3f9757ba215dc49a8"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "11a182952083cb9307691cba554ee8db7b5f7ed977729f354a04eaf43440c926"
+
+[[files]]
+file = "config/iris.properties"
+hash = "b04ca0b07b5b6b907950ac1a0546b253db739f6e399c570a78fd1117ad5a8598"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmanager.json"
+hash = "0eecc4d067114e6fc5754f3b6725bee8fb938a4efd7c34e9a65ffd19292ec0e2"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/mods-command.conf"
+hash = "1dc950605222f7e499d7312d196859fbb25211df2b3fb33c2daf05365c4d62fd"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "31cdd57ce93d3b36831c05406494ed616a09fb41370fa296e1fae12e0bebdeb0"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "ea59a153be8cf0893a9295e79491ac379796d3839749168f3489dc536d9c4131"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "8ce86b17936134793cde8688ba5698e68e3ab25d0d9fcb6064bb4708efa097d6"
+
+[[files]]
+file = "icon.png"
+hash = "95dd88d03e207dff7d66dcc2a0bb0e269401bbdd583e8f5d2713fa7394fe2983"
+
+[[files]]
+file = "modrinth.index.json"
+hash = "77327606a02e2148e997bb2b879db6493284999d314ae9a4b3d09210f4c0c708"
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "caa5229f3b414f1f83c10ac307e1de0e52beae3c741846c0fe83c326df45e4c7"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "109c382c059eb524502143d9271ce79a2e7f9f5b9cd634780687b718bfd025f7"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "478f43341248346118765f37013fa8d595b9f66aeb3a681146afb29731b4f8f7"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "bb9125b211bd88a79b263a0576aabb58446ebdabfa57f920866a56f2c8ff87ec"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2fa2af1dc925f206b987c7e92d4ac4182453febf286544aa7c64029d1dff4551"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "41bc0a9806bc79afa3dfc650fe251b85711a166b059c5a1273634afd0b5a792a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/modmanager.pw.toml"
+hash = "7146d15d1820fbeab833b3acc01d7831ca7bc802f883ec42d2c21b878a744755"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+metafile = true
+
+[[files]]
+file = "mods/mods-command.pw.toml"
+hash = "ae67afeefc6270d3865948ccc8e9480f5d1c491253f776c150f26f607d173eb7"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "d714f6e72ebc849970b4c28384ed68f95624f497ea39d18b92e3e79251cbf659"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "0f28f10ebbfa74ff40be73a480c62c3e21c8e613f60b00a87fe14e6d75d7b50f"
+
+[[files]]
+file = "servers.dat"
+hash = "14124b9d937d4cde94f18bad8cff9b2fb9f93bbc2ba2b53675bba20b9f629acc"

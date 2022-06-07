@@ -1,0 +1,13 @@
+name = "FPS BOOM!"
+author = "LowOnEspresso"
+version = "0.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fe235c02b9f660a3bd0fbed599eb094dbd8f36868ef357e02794f155d901f2e9"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.19"
