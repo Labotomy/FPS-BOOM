@@ -1,12 +1,12 @@
 name = "FPS BOOM!"
 author = "LowOnEspresso"
-version = "0.1.3"
+version = "0.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3bda70a3360fa9af4cfb6ed80574ff2c534c20bb99d6f6b3de811a37de67e966"
+hash = "fe235c02b9f660a3bd0fbed599eb094dbd8f36868ef357e02794f155d901f2e9"
 
 [versions]
 fabric = "0.14.6"
