@@ -70,22 +70,7 @@ hash = "95dd88d03e207dff7d66dcc2a0bb0e269401bbdd583e8f5d2713fa7394fe2983"
 
 [[files]]
 file = "modrinth.index.json"
-hash = "77327606a02e2148e997bb2b879db6493284999d314ae9a4b3d09210f4c0c708"
-
-[[files]]
-file = "mods/better-beds.pw.toml"
-hash = "caa5229f3b414f1f83c10ac307e1de0e52beae3c741846c0fe83c326df45e4c7"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "109c382c059eb524502143d9271ce79a2e7f9f5b9cd634780687b718bfd025f7"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "478f43341248346118765f37013fa8d595b9f66aeb3a681146afb29731b4f8f7"
-metafile = true
+hash = "92433ad262f4981c7a2877b8dfe70c89d3d5f2485c31904a70b096315816e456"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -100,21 +85,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "2fa2af1dc925f206b987c7e92d4ac4182453febf286544aa7c64029d1dff4551"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
-metafile = true
-
-[[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "41bc0a9806bc79afa3dfc650fe251b85711a166b059c5a1273634afd0b5a792a"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
 metafile = true
 
 [[files]]
@@ -133,28 +103,8 @@ hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
-metafile = true
-
-[[files]]
-file = "mods/modmanager.pw.toml"
-hash = "7146d15d1820fbeab833b3acc01d7831ca7bc802f883ec42d2c21b878a744755"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
-metafile = true
-
-[[files]]
-file = "mods/mods-command.pw.toml"
-hash = "ae67afeefc6270d3865948ccc8e9480f5d1c491253f776c150f26f607d173eb7"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.pw.toml"
-hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
 metafile = true
 
 [[files]]
