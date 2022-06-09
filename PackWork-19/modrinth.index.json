@@ -1,38 +1,39 @@
 {
     "formatVersion": 2,
     "game": "minecraft",
-    "versionId": "0.2.0",
+    "versionId": "0.2.1",
     "name": "FPS BOOM!",
+    "project_type": "modpack",
     "files": [
         {
-            "path": "mods/entityculling-fabric-1.5.1-mc1.19-rc2.jar",
+            "path": "mods/entityculling-fabric-1.5.2-mc1.19.jar",
             "hashes": {
-                "sha1": "37039f97a0c4993978dbcd102f81e500e9e03dc3",
-                "sha512": "7fc9496f5435b5357940da44553dfa54bea2cbaa25976cb26b2bdf47ab4283cda83b80ea3f8efde536a05bfb208e25935278fce0038d70f5f618ee590b15414d"
+                "sha1": "ff5520d7b10342358575220d88bd39c8cea80dad",
+                "sha512": ""
             },
             "env": {
                 "client": "required",
                 "server": "unsupported"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.1-fabric-1.19/entityculling-fabric-1.5.1-mc1.19-rc2.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.19/entityculling-fabric-1.5.2-mc1.19.jar"
             ],
-            "fileSize": 75561
+            "fileSize": 0
         },
         {
-            "path": "mods/fabric-api-0.55.2+1.19.jar",
+            "path": "mods/fabric-api-0.55.3%2B1.19.jar",
             "hashes": {
-                "sha1": "3c7028ef506551701e0bdc894e9c44c8e64f606b",
-                "sha512": "8045bd5007dc6b10db6da2fcfcf8216c3e1b145c44e48b53ff56b18176f18eae6ba5928ca29dbd4cf22d4219fc38f046fdaf6c2893846ec2fcc5ecefa52b6192"
+                "sha1": "3632c08137f87e86d8aaa6a613876eb234d1c5f1",
+                "sha512": ""
             },
             "env": {
                 "client": "required",
                 "server": "unsupported"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.55.2+1.19/fabric-api-0.55.2%2B1.19.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.55.3+1.19/fabric-api-0.55.3%2B1.19.jar"
             ],
-            "fileSize": 1467710
+            "fileSize": 0
         },
         {
             "path": "mods/fabric-language-kotlin-1.7.4+kotlin.1.6.21.jar",
@@ -48,6 +49,21 @@
                 "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.4+kotlin.1.6.21/fabric-language-kotlin-1.7.4%2Bkotlin.1.6.21.jar"
             ],
             "fileSize": 6079386
+        },
+        {
+            "path": "mods/indium-1.0.4+mc1.19.jar",
+            "hashes": {
+                "sha1": "7051b35f4de5e84b7c77e33743c3ad51a76ad50d",
+                "sha512": ""
+            },
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.4+mc1.19/indium-1.0.4%2Bmc1.19.jar"
+            ],
+            "fileSize": 0
         },
         {
             "path": "mods/iris-mc1.19-1.2.5.jar",

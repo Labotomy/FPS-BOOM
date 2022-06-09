@@ -1,12 +1,12 @@
-name = "FPS BOOM!"
+name = "PackWork 19 Waiting"
 author = "LowOnEspresso"
-version = "0.2.1"
+version = "x.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1736c64bd003a0b1321791efc58694057bedd94e8cbb8139821f8412bd5b1a9e"
+hash = "26b4b03969cc4482cfb53f39af06cfb1e37d7f05c4b13cc48ba3cc2dbe710a39"
 
 [versions]
 fabric = "0.14.6"
