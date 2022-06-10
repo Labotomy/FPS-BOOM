@@ -1,0 +1,17 @@
+name = "kennytvs-epic-force-close-loading-screen-mod-for-fabric"
+filename = "forcecloseloadingscreen-1.1.1.jar"
+FileSize = 115780
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/blWBX5n1/versions/1.1.1/forcecloseloadingscreen-1.1.1.jar"
+hash-format = "sha1"
+hash = "115b4f31863d3131f73a201656f5cfd98648fdd6"
+hash-formatFT = "sha512"
+hashFT = "9e481e744e19d946c8ca641c0bc1c665dcbfdeb057f3d322623194c6fc68c1acc8e0ca968d9d79284504fd224ae31eef58a5cf01cf6ca1bde477e2ae564ba184"
+FileSize = 115780
+
+[update]
+[update.modrinth]
+mod-id = "blWBX5n1"
+version = "2wHT21NC"

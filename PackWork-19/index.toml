@@ -70,7 +70,7 @@ hash = "95dd88d03e207dff7d66dcc2a0bb0e269401bbdd583e8f5d2713fa7394fe2983"
 
 [[files]]
 file = "modrinth.index.json"
-hash = "f3709b26ae0aba5bd640d89d947ada79dc61676243042d35b8f149a026d03e12"
+hash = "553697f7ba1a1404902f43fe249a193c104d703e72715f6835194f776a989e20"
 
 [[files]]
 file = "mods/dashloader.pw.toml"

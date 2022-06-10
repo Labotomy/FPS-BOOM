@@ -1,0 +1,17 @@
+name = "DashLoader"
+filename = "dashloader-4.0.0+1.19.jar"
+FileSize = 5887939
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/4.0.0+1.19/dashloader-4.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "c6ecf810365ef16714c6577caba86bd3dfdfa782"
+hash-formatFT = "sha512"
+hashFT = "9e72bc1d121005df5079c9474db6f008dfd34f9e5ab795cbbdb42325d9c66bb29010da6e17259e2bc59a2fbb27d8cdcdebf2917bdc4ea39fccddfabac679739d"
+FileSize = 5887939
+
+[update]
+[update.modrinth]
+mod-id = "ZfQ3kTvR"
+version = "EUniyxEp"
