@@ -1,7 +1,7 @@
 {
     "formatVersion": 2,
     "game": "minecraft",
-    "versionId": "0.2.2",
+    "versionId": "0.2.3",
     "name": "FPS BOOM!",
     "project_type": "modpack",
     "files": [
@@ -187,7 +187,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.14.7",
+        "fabric-loader": "0.14.8",
         "minecraft": "1.19"
     }
 }

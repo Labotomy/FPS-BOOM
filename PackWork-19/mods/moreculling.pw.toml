@@ -1,0 +1,17 @@
+name = "More Culling"
+filename = "moreculling-1.19-0.3.0-alpha.jar"
+FileSize = 107425
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.3.0/moreculling-1.19-0.3.0-alpha.jar"
+hash-format = "sha1"
+hash = "bf48e98a5a665f9409dfebf3a9d505cda9d63233"
+hash-formatFT = "sha512"
+hashFT = "fe7281be69deadb72ea737be225bba3fef0086da8706636f77ac10fe7298eb255ac83c89bb958123a99534afd23cf4fd98720b2f643ae5774942cd431f86007a"
+FileSize = 107425
+
+[update]
+[update.modrinth]
+mod-id = "51shyZVL"
+version = "jSOdwPjm"
