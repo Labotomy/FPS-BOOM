@@ -1,17 +1,17 @@
 name = "Lithium"
-filename = "lithium-fabric-mc1.19-0.8.0.jar"
-FileSize = 475670
+filename = "lithium-fabric-mc1.19.1-0.8.3.jar"
+FileSize = 476619
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.0/lithium-fabric-mc1.19-0.8.0.jar"
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.1-0.8.3/lithium-fabric-mc1.19.1-0.8.3.jar"
 hash-format = "sha1"
-hash = "87c0df9cb98b5457624a2de08ddb951a2a71c77a"
+hash = "9ef9f10f62d4c19b736fe493f2a11d737fbe3d7c"
 hash-formatFT = "sha512"
-hashFT = "3c8d88f8b1a2202d5891879549dd58de27f12a3a7bdb66083b6fde3c08256807515fd81f86fa0c147473640e8087ae5e12a20fe22c9b5eb8d830842b3512687d"
-FileSize = 475670
+hashFT = "a3b623b4c14f6ba46d1486ffb3d1ba3174e3317b419b2ddfdf7bb572244e706d2e0a37bdce169c94455bec00fd107530ba78d7e611162a632cc6950e6a625433"
+FileSize = 476619
 
 [update]
 [update.modrinth]
 mod-id = "gvQqBUqZ"
-version = "pXdccFQf"
+version = "ZRR9yqHD"
